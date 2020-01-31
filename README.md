@@ -1,2 +1,0 @@
-# amis-playground
-amis-playground
